@@ -1,0 +1,9 @@
+{
+	"name": "tiagodatafactorytestes",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ac822399-db09-4f7a-8c63-6b7ffce2aa28",
+		"tenantId": "cb71f700-db0e-426a-a1ed-1dbccc1a5978"
+	}
+}
